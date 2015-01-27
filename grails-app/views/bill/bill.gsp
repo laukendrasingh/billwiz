@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>${billInstance.rechargeTime?.substring(0, 12)}-${billInstance.amountPaid}</title>
 </head>
 <body>
 
